@@ -2,4 +2,4 @@ message: "Nova mensagem do dev! Atualizada no Git."
 limite-transferencia: 500
 
 secure:
-  fake-secret: "{cipher}AQBXD78ad9812ahdh8192hd182=="
+  fake-secret: "AQBXD78ad9812ahdh8192hd182=="
